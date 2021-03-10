@@ -7,9 +7,9 @@ server:
   cpus: 1
   memory: 1500
 node:
-  count: 1
-  cpus: 1
-  memory: 1500
+  count: 2
+  cpus: 2
+  memory: 2048
 ip:
   master: 172.22.101.100
   server: 172.22.101.101
