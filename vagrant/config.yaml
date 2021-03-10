@@ -1,4 +1,4 @@
-admin_password: admin
+admin_password: Fundaments2021!
 rancher_version: v2.5.5
 ROS_version: 1.5.1
 # Empty defaults to latest non-experimental available
@@ -7,7 +7,7 @@ server:
   cpus: 1
   memory: 1500
 node:
-  count: 1
+  count: 2
   cpus: 1
   memory: 1500
 ip:
